@@ -22,7 +22,7 @@
     margin: 0 auto;
     display: flex;
 }
-.qq img{
+.q10{
     padding-top: 35px;
     padding-left: 110px;
     height: 15px;
@@ -71,4 +71,51 @@
 .w1{
     max-width: 1200px;
     margin: 0 auto;
+}
+.q4{
+    display: none;
+}
+.w3{
+    display: none;
+}
+@media(max-width:500px){
+    .q{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./uae-4-2048x1367\ 3.png");
+       
+    }
+    .q2{
+        display: none;
+    }
+    .q4{
+        display: block;
+        padding-top: 20px;
+        padding-left: 10px;
+    }
+    .qq button{
+        margin-left: 40px;
+    }
+    .w1{
+        padding-left: 0px;
+        text-align: center;
+        padding-top: 100px;
+    }
+.w1 h1{
+    font-size: 30px;
+}
+    .w2,.q1{
+        display: none;
+    }
+    .w3{
+        display: block;
+        text-align: center;
+
+    }
+    .w6{
+        background-color: white;
+        color: #07AF91;
+    }
+    .q10{
+        padding-left: 20px;
+    }
 }
