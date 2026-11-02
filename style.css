@@ -192,3 +192,38 @@
 .e7{
     padding-left: 100px;
 }
+@media (max-width:500px){
+    .e{
+        flex-direction: column;
+    }
+    .e1{
+        flex-direction: column;
+        padding-left: 0px;
+        text-align: center;
+        
+    }
+    .e2{
+        flex-direction: column-reverse;
+        padding-left: 0px;
+        text-align: center;padding-top: 20px;
+    }
+    .e5{
+        text-align: center;
+        flex-direction: column;
+        padding-left: 0px;
+        padding-top: 30px;
+    }
+
+    .e6,.e7,.e3,.e4{
+        padding-left: 0px;
+    }
+    .e1 h1{
+        padding-left: 0px;
+    }
+    .e4 img,.e6 img{
+        padding-left: 0px;
+        height: 200px;
+        
+    }
+    
+}
