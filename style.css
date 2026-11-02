@@ -579,7 +579,35 @@ margin-top: 20px;
    padding-left: 350px;
     padding-top: 150px;
 }
+
 .u839{
     padding-left: 430px;
     padding-top: 50px;
+}   
+@media(max-width:500px){
+.u{
+    flex-direction: column;
+    padding-top: 300px;
+}
+.u1{
+    padding-left: 0px;
+    text-align: center;
+    font-size: 20px;
+}
+.u2{
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.u77 p{
+  padding-left: 0pc;
+  text-align: center;
+}
+.u77{
+    margin-left: 0px;
+}
+.u839{
+    padding-left: 100px;
+}
+
 }
