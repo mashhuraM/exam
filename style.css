@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+.q{
+    width: 100%;
+  /* background-image: url(); */
+  background-repeat:no-repeat;
+  background-size: 100% ;
+  height: 715px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("./uae-4-2048x1367\ 2.png");
+    color: white;
+}
+.qq h1{
+    text-align: center;
+}
+.qq{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+}
+.qq img{
+    padding-top: 35px;
+    padding-left: 110px;
+    height: 15px;
+}
+.q1{
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.q2{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.qq button{
+    border: none ;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 10px;
+    background-color: #07AF91;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.w{
+    background-color: #07AF91;
+    color: white;
+}
+.w1{
+   padding-left: 220px;
+   padding-top: 150px;
+}
+.w1 h1{
+    font-size: 40px;
+    font-weight: 150;
+}
+.w1 P{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.w1 button{
+    padding: 20px 25px;
+    background-color: #4FA7D9;
+    color: white;
+    margin-top: 20px;
+    border:none;
+    border-radius: 10px;
+}
+.w1{
+    max-width: 1200px;
+    margin: 0 auto;
+}
