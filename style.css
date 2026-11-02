@@ -271,3 +271,22 @@
     font-size: 13px;
     padding-top: 10px;
 }
+@media(max-width:500px){
+    .r{
+        flex-direction: column;
+        padding-top: 500px;
+        height: 1170px;
+    }
+    .r2{
+        flex-direction: column;
+        padding-left: 15px;
+    }
+   
+    .r1{
+        padding-left: 0px;
+    }
+    .r1 h1{
+        text-align: center;
+        padding-left: 0px;
+    }
+}
