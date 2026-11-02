@@ -482,3 +482,39 @@ margin-top: 20px;
    padding-top: 20px;
     font-size: 18px; 
 }
+@media(max-width:500px){
+    .y{
+        flex-direction: column;
+    }
+    .y11{
+        flex-direction: column;
+        padding-left: 0px;
+    }
+    .y1{
+        padding-left: 0px;
+        
+    }
+    .y1 h1{
+        padding-left: 0px;text-align: center;
+    }
+    .y2{
+       
+        padding-left: 0px;
+    }
+    .yy1,.yy2,.yy3,.yy4{
+       padding: 10px 10px;
+    }
+    .y3{
+        padding-left: 0px;
+        text-align: start;
+    }
+    .qw4{
+        left: 0px;
+        position: absolute;
+        top: 4100px;
+        height: 170px;
+    }
+    .y6 p,.y7 p,.y9 p{
+        font-size: 13px;
+    }
+}
