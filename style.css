@@ -227,3 +227,47 @@
     }
     
 }
+.r{
+    width: 100%;
+    height: 550px;
+    background-color: white;
+}
+.r1{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.r1 h1{
+    color: #1178B2;
+    padding-left: 120px;
+    padding-top: 80px;
+}
+.r2{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    padding-left: 230px;
+    padding-top: 50px;
+    gap: 30px;
+}
+.r3,.r4,.r5{
+    width: 320px;
+    height: 300px;
+    box-shadow: 1px 1px 10px rgb(168, 167, 167);
+    border-radius: 10px;
+   
+
+}
+.r6{
+    padding-left: 110px;
+    padding-top: 50px;
+}
+.r7{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 30px;
+}
+.r8{
+    text-align: center;
+    font-size: 13px;
+    padding-top: 10px;
+}
