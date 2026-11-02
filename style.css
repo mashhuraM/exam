@@ -684,3 +684,45 @@ margin-top: 20px;
     background-color: #0a354e;
     color: white;
 }
+.p2:hover{
+    transition: all;
+    border: 3px solid #1178B2;
+}
+.ii1:hover{
+    transition: all;
+    border: 1px solid #1178B2;
+}
+@media(max-width:500px){
+    .i{
+        flex-direction: column;
+        padding-left: 0px;
+        padding-top: 500px;
+    }
+    .i1{
+        padding-left: 10px;
+        
+    }
+    .i1 h1{
+        text-align: center;
+        padding-left: 0px;
+    }
+    .ii1{
+        width: auto;
+        height: 80px;
+    }
+    .p2{
+        width: auto;
+        text-align: center;
+        height: 90px;
+    }
+    .ii11{
+        width: auto;
+    }
+    .i10{
+        display: none;
+    }
+    .i667{
+        padding-top: 40px;
+        padding-left: 0px;
+    }
+}
