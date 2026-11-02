@@ -339,3 +339,146 @@
         
     }
 }
+
+.y{
+    width: 100%;
+    height:750px;
+    background-color: whitte;
+}
+
+.y1{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.y1 h1{
+    padding-top: 100px;
+    padding-left: 120px;
+    color: #1178B2;
+}
+
+.y2{
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 220px;
+    padding-top: 50px;
+}
+.yy2{
+    padding: 20px 80px;
+    border: 1px solid lightgray;
+    color: #525253;
+    background-color: #EEF1F4;
+    border-radius: 3px;
+}
+.yy2:hover{
+    transition: all;
+    background-color: #88BBD8;
+    color: white;
+}
+.yy1{
+    padding: 20px 80px;
+    color: white;
+    background-color: #88BBD8;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border: none;
+}
+.yy1:hover{
+    transition: all;
+    background-color: #EEF1F4;
+    color: #525253;
+}
+.y11{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+}
+.y3{
+    padding-left: 110px;
+    padding-top: 60px;
+}
+.qw1{
+    color: #07AF91;
+}
+.qw2{
+    padding-top: 20px;
+}
+.y3 button{
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+    padding: 15px 30px;
+    background-color: #419CD0;
+}
+.qw3{
+    display: flex;
+    gap: 20px;
+    padding-top: 50px;
+}
+.qw4{
+    position: absolute;
+    top: 2950px;
+    left: 300px;
+
+}
+.y6,.y7,.y9{
+    box-shadow: 1px 1px 10px lightgray;
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.y5,.y8{
+    display: flex;
+gap: 20px;
+margin-top: 20px;
+}
+.yy4{
+    padding-left: 150px;
+    padding-top: 40px;
+    
+}
+.mld2{
+    color: #75b9e0;
+    padding-left: 0px;
+    padding-top: 50px;
+    font-size: 35px;
+}
+.mld3{
+     color: #75b9e0;
+    padding-left: 0px;
+    padding-top: 50px;
+    font-size: 35px;
+}
+.mld1{
+     color: #75b9e0;
+    padding-left: 0px;
+    padding-top: 50px;
+    font-size: 35px;
+}
+.y10{
+    box-shadow: 1px 1px 10px lightgray;
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: #1178B2;
+    color: white;
+   
+}
+.g10{
+    padding-left: 0px;
+    padding-top: 50px;
+    height: 30px;
+}
+.y6 p,.y7 p,.y9 p{
+    color: rgb(67, 67, 67);
+    padding-top: 20px;
+    font-size: 18px;
+}
+.y10 p{
+   padding-top: 20px;
+    font-size: 18px; 
+}
