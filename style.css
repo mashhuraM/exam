@@ -929,3 +929,20 @@ margin-top: 200px;
     margin-left: 70px;
     margin-top: 20px;
 }
+@media(max-width:500px){
+    .ss{
+        padding-left: 10px;
+        flex-direction: column;
+    }
+    .s{
+        flex-direction: column;
+        
+    }
+    .s1 h1{
+        padding-left: 0px;
+        text-align: center;
+    }
+    .s1{
+        padding-left: 0px;
+    }
+}
