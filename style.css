@@ -1214,3 +1214,17 @@ margin-top: 200px;
     margin-top: 30px;
     padding: 20px 35px;
 }
+@media(max-width:500px){
+    .k{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(./Rectangle\ 1994.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-top: 100px;
+    }
+    .k1{
+        padding-left: 0px;
+    }
+    .k1 h1{
+        padding-top: 20px;
+    }
+}
