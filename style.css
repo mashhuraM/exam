@@ -1399,3 +1399,17 @@ margin-top: 200px;
 .c6{
     padding-left: 100px;
 }
+@media(max-width:500px){
+    .c{
+        background-image: url(./Group\ 928.png);
+    }
+    .cc{
+        padding-left: 10px;
+    }
+    .c1,.c2{
+        display: none;
+    }
+    .c6{
+        padding-left: 50px;
+    }
+}
