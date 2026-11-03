@@ -1228,3 +1228,49 @@ margin-top: 200px;
         padding-top: 20px;
     }
 }
+.l{
+    width: 100%;
+    height: 600px;
+    background-color: white;
+}
+.l1{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+.l1 h1{
+    color: #2A79C2;
+}
+.l2 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 220px;
+    padding-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+.l3,.l4,.l5{
+    width: 330px;
+    height: 330px;
+    box-shadow: 1px 1px 10px lightgray;
+}
+.l44{
+    width: 330px;
+}
+.l3 h3{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.l3 p{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.l4 p,.l5 p{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.l4 h3,.l5 h3{
+    padding-left: 30px;
+    padding-top: 20px;
+}
