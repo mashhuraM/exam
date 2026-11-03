@@ -1069,3 +1069,35 @@ margin-top: 200px;
         padding-left: 20px;
     }
 }
+.h{
+    width: 100%;
+    height: 550px;
+    background-color: white;
+}
+.h1{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-left: 220px;
+    
+}
+.h1 h1{
+    color: #1178B2;
+}
+.h2{
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+     padding-left: 220px;
+     padding-top: 50px;
+     gap: 20px;
+}
+.hh1,.hh2,.hh3,.hh4{
+    width: 250px;
+    height: 350px;
+    
+    text-align: center;
+}
+.hh1:hover,.hh2:hover,.hh3:hover,.hh4:hover{
+    transition: all;
+     background-color: lightgray;
+}
