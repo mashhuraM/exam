@@ -1345,3 +1345,33 @@ margin-top: 200px;
         border: none;
         border-radius: 10px;
     }
+@media(max-width:500px){
+    .z{
+        flex-direction: column;
+        padding-left: 0px;
+        height: auto;
+    }
+    .z2{
+        padding-left: 0px;
+        text-align: center;
+        
+
+    }
+    .z1{
+        padding-left: 0px;
+       flex-direction: column;
+    }
+    .x{
+        position: static;
+        padding-left: 0px;
+        width: auto;
+    }
+    .z1 img{
+        height: 70px;
+        width: 70px;
+        padding-left: 130px;
+    }
+    .x input{
+        width: 270px;
+    }
+}
