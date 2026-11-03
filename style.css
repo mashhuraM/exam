@@ -982,3 +982,27 @@ margin-top: 200px;
 .d3 img{
     height: 400px;
 }
+@media (max-width:500px) {
+    .d{
+        flex-direction: column;
+        padding-top: 1500px;
+}
+.d1{
+    padding-left: 0px;
+
+    }
+    .d1 h1{
+        text-align: center;
+    }
+    .d2{
+        flex-direction: column;
+        padding-left: 0px;
+    }
+    .d4{
+        text-align: center;
+        padding-left: 0pc;
+    }
+    .d3 img{
+        height: 260px;
+    }
+}
